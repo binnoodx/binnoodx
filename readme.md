@@ -9,7 +9,7 @@
         this.name = name;
         this.skill = skill;
       }
-
+ 
       greet() {
         console.log(`Hello, This is ${this.name} and I am ${this.skill}.`);
       }
