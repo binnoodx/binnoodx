@@ -18,7 +18,7 @@
     const user = new Person("Binodx", "Full Stack Engineer");
     user.greet();
 
-</script>
+</script> 
 
 
 ```
