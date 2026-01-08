@@ -19,6 +19,4 @@
     user.greet();
  
 </script> 
-
-
 ```
