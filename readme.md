@@ -1,6 +1,6 @@
 ```
 <h1> Hello World👋!</h1>
-<p> Greetings from Binod , An Aspiring Developer making real world projects </p>
+<p> Greetings from Binod Sharma , An Aspiring Developer making real world projects </p>
 
 <script>
     class Person {
